@@ -9,8 +9,7 @@
   Lotty Totty is a decentralized lottery platform where users can participate anonymously and stand a chance to win prizes through secure, automated smart contracts on the AIA Chain. Leveraging blockchain technology, Lotty Totty ensures transparent, fair draws and         tamper-proof results. Participants enter the lottery by connecting to the platform without revealing personal information, promoting a high level of privacy. Winning payouts are seamlessly processed via smart contracts, ensuring that rewards are distributed              immediately and securely to winners’ wallets. Lotty Totty aims to revolutionize lottery systems with trustless, decentralized mechanics, making lottery participation simple, secure, and anonymous.
    
 
-## Contract Address : 
-- NFT Contract Address : 0x43b61E93D0bE6E95fF366a1387Fd006446bcF5d0
+## Contract Address :  0x43b61E93D0bE6E95fF366a1387Fd006446bcF5d0
 
 - Verify this Contract -> [Verify Contract here ](https://testnet.aiascan.com/address/0x43b61E93D0bE6E95fF366a1387Fd006446bcF5d0)
 
